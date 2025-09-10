@@ -1,6 +1,5 @@
 {
   "recommendations": [
-    "alefragnani.project-manager",
     "charliermarsh.ruff",
     "davidanson.vscode-markdownlint",
     "eamodio.gitlens",

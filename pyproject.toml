@@ -1,5 +1,5 @@
 [project]
-name = "Template data science container"
+name = "template-data-science-container"
 version = "0.1.0"
 description = "Template for data science and AI Projects with the last stable version of python and devcontainer"
 authors = [
