@@ -1,0 +1,34 @@
+{
+  "template": "https://github.com/JoseRZapata/data-science-project-template",
+  "commit": "b36aae83c62ea6f02d67451df2da2c9d1f056520",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "Template data science container",
+      "repo_name": "template-data-science-container",
+      "github_username": "",
+      "author_name": "Jose R. Zapata",
+      "author_email": "joserzapata.github.io",
+      "description": "Template for data science and AI Projects with the last stable version of python and devcontainer",
+      "compatible_python_versions": "3.12",
+      "mkdocs": false,
+      "codecov": false,
+      "license": "MIT License",
+      "_copy_without_render": [
+        ".code_quality/*",
+        ".vscode/*",
+        "config/*",
+        "data/*",
+        "src/*",
+        "tests/*",
+        ".editorconfig",
+        ".pre-commit-config.yaml",
+        "codecov.yaml",
+        "docs/*"
+      ],
+      "_template": "https://github.com/JoseRZapata/data-science-project-template",
+      "_commit": "b36aae83c62ea6f02d67451df2da2c9d1f056520"
+    }
+  },
+  "directory": null
+}
