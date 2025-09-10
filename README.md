@@ -1,5 +1,8 @@
-# Template data science container
+# Template for data science with Python 3.12 and devcontainer
 
+[![Python 3.12](https://img.shields.io/badge/python-3.12-blue?logo=python&logoColor=white)](https://www.python.org/downloads/release/python-3120/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![codecov](https://codecov.io/gh/JoseRZapata/data-science-project-template/branch/main/graph/badge.svg?token=G9K6YJ8J6W)](https://codecov.io/gh/JoseRZapata/data-science-project-template)
 [![uv](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/uv/main/assets/badge/v0.json)](https://github.com/astral-sh/uv)
 [![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/charliermarsh/ruff/main/assets/badge/v2.json)](https://github.com/charliermarsh/ruff)
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
@@ -9,6 +12,9 @@
 This is a data science project template created with [Cookiecutter] to help you start your next data science or machine learning project quickly and efficiently. It includes a well-organized folder structure, essential tools for code quality, testing, and documentation, and follows best practices in the industry.
 
 Using the data science project template <https://github.com/JoseRZapata/data-science-project-template>
+
+- `Python` = `3.12`
+- `devcontainer` to work in `VSCode` or [GitHub Codespaces](https://github.com/features/codespaces) using the same environment as in production.
 
 ## ✨ Features and Tools
 
